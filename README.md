@@ -1,4 +1,3 @@
-# Walmart-Customer-Analytics
  
 Walmart-Customer-Analytics/
 │
