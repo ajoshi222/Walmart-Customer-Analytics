@@ -87,8 +87,3 @@ An end-to-end data analytics project simulating a real-world retail business int
 
 
 ---
-
-## 👤 Connect & Author
-**Ankit Joshi**  
-*B.Tech Computer Science Engineering (2023 Graduate)*[cite: 1]  
-[LinkedIn Profile](#) | [GitHub Portfolio](https://github.com/ajoshi222)
